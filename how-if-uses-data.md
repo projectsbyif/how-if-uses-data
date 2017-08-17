@@ -1,58 +1,50 @@
 # How IF uses data
 
-Projects by IF is a limited company based in London, England. We run this website ([projectsbyif.com](https://projectsbyif.com/)) and its subdomains. We also use third party services to publish work, keep in touch with people, and understand how we can do those things better. Many of those services collect some data about people who are interested in IF, come to our events or work with us.
+Projects by IF is a limited company based in London, England. We run this website ([projectsbyif.com](https://projectsbyif.com/)) and its subdomains. We also use third party services to publish work, keep in touch with people and understand how we can do those things better. Many of those services collect some data about people who are interested in IF, come to our events or work with us.
 
-On this page we’ll list the services and processes we use to manage and understand that data. If you’ve got any questions about how we use data, or want to make a subject access request, contact [hello@projectsbyif.com](mailto:hello@projectsbyif.com)
+Here you can find out what those services are, how we use them and how we store the information they collect. If you’ve got any questions, or want to know more about data we might have collected about you, email [hello@projectsbyif.com](mailto:hello@projectsbyif.com)
 
 This page was published on 4 August 2017. You can see any revisions by visiting [the repository on Github](https://github.com/projectsbyif/how-if-uses-data).
 
 ## Principles
-We take our approach to data very seriously at IF. Our use and management of data is governed by some high-level principles that are worth stating up front:
+At IF, we take our approach to data very seriously, so we’ve set some guiding principles that all of our work follows:
 
-_Ask for as little as possible_ - Data minimisation is crucial. Ask for as little as you can and record even less. It minimises risk, both to IF and to the people we collect information about.
+_Minimising the data we collect and record_ - We ask for as little information as possible. It reduces the risk of exposing sensitive data, and means people have more control over what they share with us.
 
-_Be clear about data use_ - Be up front about what you’ll do with information, how you’ll store it, who will have access to it and when you’ll delete it. If you won’t use it, don’t keep it.
+_Being clear about data use_ - We’re up front about what we’ll do with information: how we store it, who’ll have access to it and when we’ll delete it. If we won’t use it, we don’t keep it.
 
-_Make decisions as a team_ - No single person has all the answers. Talk about decisions you’re making about using data. Ideally, blog about it: public discussion is valuable.
+_Making decisions as a team_ - No single person has all the answers. We talk about decisions we’re making about using data. Ideally, we write a blog post about it: public discussion is essential.
 
-_Store data securely_ - Make sure data is stored appropriately. No-one should be able to access it without permission, either by accident or malice.
+_Storing data securely_ - No one should be able to access our data without permission, either by accident or design.
 
-_Don’t share personally identifiable information_ - Outside of the team working on a project, the closest someone should be able to get to raw data is a high-level synthesis of what you find.
+_Keeping personally identifiable information confidential_ - Outside of the team working on a project, the information we share about people is a high-level synthesis.
 
-_Be accountable_ - Someone should always be responsible for decisions made about our use of data. This person must be able to explain every decision made about how to use and manage data.
+_Holding people to account_ - Someone should always be responsible for decisions made about our use of data. This person must be able to explain every decision made about the way a project’s data has been gathered, used and managed.
 
-## Visitors to IF’s websites
-We track visitors to IF’s website using analytics platform [Piwik](https://piwik.org/privacy/). We chose Piwik because we could run this on IF’s server, so no third parties have access to this data. You can read [what information Piwik collects](https://piwik.org/faq/general/faq_18254/) on their website. We use this to learn how we can improve the website and the content on it for people who visit it. We will store it indefinitely, so we can see these trends over time. You can read about Piwik’s approach to privacy, and which tools they recommend to anonymise your browsing, at [piwik.org/privacy](https://piwik.org/privacy). You can also opt-out of being tracked by Piwik by checking a box on that page.
+## Services powering IF websites
+We track visitors to IF’s website using analytics platform [Piwik](https://piwik.org/privacy/), which logs a visitor’s activity on our website: we then use this to work out how we can improve the site. We store the data collected indefinitely, so we can see how use of our website changes over time. We chose Piwik because we are able to run it on equipment we control, so no third parties have access to this data. You can read more about the information Piwik collects on their website [here](https://piwik.org/faq/general/faq_18254/). You can also read about Piwik’s approach to privacy, and which tools they recommend to anonymise your browsing, at [piwik.org/privacy](https://piwik.org/privacy), where you can also opt out of being tracked by Piwik.
 
-We run our website on servers owned by [Digital Ocean](https://www.digitalocean.com/). We chose Digital Ocean because we could control the server, and because that server is based in the UK. You can read about Digital Ocean’s approach to customer data, including their privacy policy and transparency report, at [digitalocean.com/legal](http://www.digitalocean.com/legal).
+We run our website on servers owned by [Digital Ocean](https://www.digitalocean.com/). We chose them because we control the server, and because that server is based in the UK. You can read about Digital Ocean’s approach to customer data, including their privacy policy and transparency report, [here](http://www.digitalocean.com/legal).
 
-We use [Github](https://github.com/) to release code related to our projects. We use this because allows people to scrutinise code changes, and because we can easily open up contributions to code or content from people outside of IF. To read Github’s privacy policy, visit [help.github.com/articles/github-privacy-statement](https://help.github.com/articles/github-privacy-statement/).
+We use [Github](https://github.com/) to release code related to our projects. Using Github allows people to scrutinise code changes, and we can easily open up our code to contributors from outside of the IF team. Read Github’s privacy policy [here](https://help.github.com/articles/github-privacy-statement/).
 
-We host videos using [Vimeo](https://vimeo.com/). We use Vimeo because it has infrastructure better suited to to delivering video content than our own, and because it allows us to edit to content of videos (in response to, for instance, a change of consent or a copyright notice) without breaking embedded videos. You can read Vimeo’s privacy policy at [vimeo.com/privacy](https://vimeo.com/privacy).
+We host videos using [Vimeo](https://vimeo.com/), because its infrastructure is better suited to delivering video content than our own. Using Vimeo also allows us to edit to content of a video without breaking copies embedded on other websites. You can read Vimeo’s privacy policy [here](https://vimeo.com/privacy).
 
-We host images using [Amazon Web Service (AWS) Simple Storage Service (S3)](https://aws.amazon.com/s3/). We use AWS S3 because it’s reliable and integrates easily with our CMS, [Craft](https://craftcms.com/). It is not currently clear whether Amazon collects information about the use of content hosted on its platform. You can read more at [aws.amazon.com/compliance/data-privacy-faq](https://aws.amazon.com/compliance/data-privacy-faq/)
+We host images using [Amazon Web Service (AWS) Simple Storage Service (S3)](https://aws.amazon.com/s3/). We use AWS S3 because it’s reliable and integrates easily with our CMS, [Craft](https://craftcms.com/). It's not currently clear whether Amazon collects information about the use of content hosted on its platform. You can read more [here](https://aws.amazon.com/compliance/data-privacy-faq/).
 
-## Newsletter subscribers
-_If you subscribed to the newsletter on projectsbyif.com then the information about how we use data about visitors to the website is also relevant to you._
+## Newsletters
+We maintain our ‘Notes from the studio’ and 'Trust & Design' mailing lists using a service called [Sendy](https://sendy.co/), which we run on IF’s servers. We use Sendy because it allows us to switch off the tracking features that are bundled into many email services. Besides storing subscribers' email addresses, Sendy tracks whether an email has bounced from a recipient or been marked as spam. We’ll keep this information indefinitely, unless a recipient unsubscribes from a mailing list. We do monthly audits to make sure information about unsubscribed email addresses is deleted, however some of this data may be stored in backups. We’re currently changing how we store this information so that it is processed during our monthly audits.
 
-IF’s ‘Notes from the studio’ mailing list is maintained using a version of [Sendy](https://sendy.co/) run on IF’s server. We use Sendy so we can disable much of the tracking bundled with many email services. Besides storing the email addresses subscribed to a list, Sendy tracks whether an email has bounced from a recipient or been marked as spam. This information will be kept indefinitely, unless a recipient unsubscribes from the mailing list. We do monthly audits to make sure information about unsubscribed email addresses is deleted from Sendy, including any data associated with these email addresses. However some of this data may be stored in backups. We’re in the process of changing how we store this information so that it is processed during our monthly audits.
+The newsletter is sent via [Amazon Simple Email Service (SES)](https://aws.amazon.com/ses/), which we use because it improves the reliability of newsletter distribution. It’s not currently clear how Amazon SES handles personally identifiable information it processes. You can read more  [here](https://aws.amazon.com/ses/faqs/).
 
-The newsletter is sent via [Amazon Simple Email Service (SES)](https://aws.amazon.com/ses/). We do this because it improves the reliability of newsletter distribution. It is not clear how Amazon SES handles personally identifiable information it processes. To read more, visit [aws.amazon.com/ses/faqs](https://aws.amazon.com/ses/faqs/).
+## Trust & Design meetup
+We use [Eventbrite](https://www.eventbrite.co.uk/) to handle event signups and ticketing. We do this because it’s a ticketing service members of the team have experience of using, and because it allows us to promote each event to other people interested in similar events. When someone signs up to an event through Eventbrite, we’ll only use that information to get in touch about that specific event. We don’t keep copies of their information afterwards, and after an event has taken place we delete it from Eventbrite as part of our monthly audit. You can read Eventbrite’s privacy policy [here](https://www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy).
 
-## Trust & Design meetup attendees
-_If you’ve visited [trustanddesign.projectsbyif.com](https://trustanddesign.projectsbyif.com/) then the information about how we use data about visitors to projectsbyif.com is also relevant to you_
+We’ll check before each event whether attendees consent to being filmed or photographed by members of the IF team. If you’ve attended one of our events and have since changed your mind about whether you consent to being filmed or photographed, or if you find you’ve been filmed or photographed against your consent, email [hello@projectsbyif.com](mailto:hello@projectsbyif.com) and we’ll take steps to meet your needs.
 
-The Trust & Design mailing list is maintained using a version of [Sendy](https://sendy.co/) run on IF’s server. We use Sendy so we can disable much of the tracking bundled with many email services. Besides storing the email addresses subscribed to a list, Sendy tracks whether an email has bounced from a recipient or been marked as spam. This information will be kept indefinitely, unless a recipient unsubscribes from the mailing list. We do monthly audits to make sure information about unsubscribed email addresses is deleted from Sendy, including any data associated with these email addresses. However some of this data may be stored in backups. We’re in the process of changing how we store this information so that it is processed during our monthly audits.
+If a speaker consents, we film their talk so we can publish it after the event. This film is also transcribed to ensure that what the speaker says is accessible. This transcript will be published verbatim, unless a speaker wants to review and edit it. We won’t publish footage of Q&As if we haven’t asked for consent from all participants.
 
-The newsletter is sent via [Amazon Simple Email Service (SES)](https://aws.amazon.com/ses/). We do this because it improves the reliability of newsletter distribution. It is not clear how Amazon SES handles personally identifiable information it processes. To read more, visit [aws.amazon.com/ses/faqs](https://aws.amazon.com/ses/faqs/).
-
-We use [Eventbrite](https://www.eventbrite.co.uk/) to handle event signups and ticketing. We do this because it’s a ticketing service members of the team have experience using, and helps us promote an event beyond our immediate network. We only use the content submitted to manage a single event. We don’t get notifications with details about individual ticket holders. After an event has taken place we will delete it from Eventbrite as part of our monthly audit, and ensure that we don’t have any records about individual attendees. You can read Eventbrite’s privacy policy at [eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy](https://www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy).
-
-We will check before each event whether each attendee consents to being filmed or photographed by members of the IF team. If you change your mind, or if you find you’ve been included in a video or photograph from the event against your wishes, please contact [hello@projectsbyif.com](mailto:hello@projectsbyif.com) and we’ll take steps to meet your needs.
-
-With a speaker's consent, we will film their talk to publish it following the event. This film will also be transcribed to ensure that the content in it is accessible. This transcript will be published verbatim, unless a speaker requests a review of the content and takes steps to edit it. We will not publish footage of Q+A’s without explicitly asking for consent from all participants.
-
-## Followers of our social media accounts
+## Our social media accounts
 We use several social media accounts to share our work and the things we publish. At the moment, this includes;
 * [Projects by IF on Twitter](https://twitter.com/@projectsbyif) ([Privacy policy](https://twitter.com/en/privacy))
 * [Projects by IF on LinkedIn](https://www.linkedin.com/company/10589574) ([Privacy policy](https://www.linkedin.com/legal/privacy-policy))
