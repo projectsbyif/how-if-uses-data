@@ -4,22 +4,22 @@ Projects by IF is a limited company based in London, England. We run this websit
 
 Here you can find out what those services are, how we use them and how we store the information they collect. If you’ve got any questions, or want to know more about data we might have collected about you, email [hello@projectsbyif.com](mailto:hello@projectsbyif.com)
 
-This page was published on 4 August 2017. You can see any revisions by visiting [the repository on Github](https://github.com/projectsbyif/how-if-uses-data).
+This page was published on 25 August 2017. You can see any revisions by visiting [the repository on Github](https://github.com/projectsbyif/how-if-uses-data).
 
 ## Principles
 At IF, we take our approach to data very seriously, so we’ve set some guiding principles that all of our work follows:
 
-_Minimising the data we collect and record_ - We ask for as little information as possible. It reduces the risk of exposing sensitive data, and means people have more control over what they share with us.
+**Minimising the data we collect and record** - We ask for as little information as possible. It reduces the risk of exposing sensitive data, and means people have more control over what they share with us.
 
-_Being clear about data use_ - We’re up front about what we’ll do with information: how we store it, who’ll have access to it and when we’ll delete it. If we won’t use it, we don’t keep it.
+**Being clear about data use** - We’re up front about what we’ll do with information: how we store it, who’ll have access to it and when we’ll delete it. If we won’t use it, we don’t keep it.
 
-_Making decisions as a team_ - No single person has all the answers. We talk about decisions we’re making about using data. Ideally, we write a blog post about it: public discussion is essential.
+**Making decisions as a team** - No single person has all the answers. We talk about decisions we’re making about using data. Ideally, we write a blog post about it: public discussion is essential.
 
-_Storing data securely_ - No one should be able to access our data without permission, either by accident or design.
+**Storing data securely** - No one should be able to access our data without permission, either by accident or design.
 
-_Keeping personally identifiable information confidential_ - Outside of the team working on a project, the information we share about people is a high-level synthesis.
+**Keeping personally identifiable information confidential** - Outside of the team working on a project, the information we share about people is a high-level synthesis.
 
-_Holding people to account_ - Someone should always be responsible for decisions made about our use of data. This person must be able to explain every decision made about the way a project’s data has been gathered, used and managed.
+**Holding people to account** - Someone should always be responsible for decisions made about our use of data. This person must be able to explain every decision made about the way a project’s data has been gathered, used and managed.
 
 ## Services powering IF websites
 We track visitors to IF’s website using analytics platform [Piwik](https://piwik.org/privacy/), which logs a visitor’s activity on our website: we then use this to work out how we can improve the site. We store the data collected indefinitely, so we can see how use of our website changes over time. We chose Piwik because we are able to run it on equipment we control, so no third parties have access to this data. You can read more about the information Piwik collects on their website [here](https://piwik.org/faq/general/faq_18254/). You can also read about Piwik’s approach to privacy, and which tools they recommend to anonymise your browsing, at [piwik.org/privacy](https://piwik.org/privacy), where you can also opt out of being tracked by Piwik.
@@ -46,9 +46,13 @@ If a speaker consents, we film their talk so we can publish it after the event. 
 
 ## Our social media accounts
 We use several social media accounts to share our work and the things we publish. At the moment, this includes;
+
 * [Projects by IF on Twitter](https://twitter.com/@projectsbyif) ([Privacy policy](https://twitter.com/en/privacy))
+
 * [Projects by IF on LinkedIn](https://www.linkedin.com/company/10589574) ([Privacy policy](https://www.linkedin.com/legal/privacy-policy))
+
 * [Writing by IF on Medium](https://medium.com/writing-by-if) ([Privacy policy](https://medium.com/policy/medium-privacy-policy-f03bf92035c9))
+
 * [Projects by IF on Instagram](https://www.instagram.com/projectsbyif/) ([Privacy policy](https://help.instagram.com/155833707900388))
 
 We occasionally use the analytics tools provided by these platforms to understand how we can use them better. We may also feature public messages, comments or replies on [celebrate.projectsbyif.com](https://celebrate.projectsbyif.com/). If you’d like content removed from this site, please contact [hello@projectsbyif.com](mailto:hello@projectsbyif.com)
