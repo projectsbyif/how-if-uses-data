@@ -4,7 +4,7 @@ Projects by IF is a limited company based in London, England. We run this websit
 
 Here you can find out what those services are, how we use them and how we store the information they collect. If you’ve got any questions, or want to know more about data we might have collected about you, email [hello@projectsbyif.com](mailto:hello@projectsbyif.com)
 
-This page was updated on 26 February 2018. You can see any revisions by visiting [the repository on Github](https://github.com/projectsbyif/how-if-uses-data).
+This page was updated on 1 March 2018. You can see any revisions by visiting [the repository on Github](https://github.com/projectsbyif/how-if-uses-data).
 
 ## Principles
 At IF, we take our approach to data very seriously, so we’ve set some guiding principles that all of our work follows:

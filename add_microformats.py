@@ -4,6 +4,7 @@
 Render a Markdown template through Jinja
 """
 
+import datetime
 import io
 import sys
 
@@ -20,12 +21,17 @@ def main(input_markdown, output_markdown):
 
     env = Environment(loader=FileSystemLoader([THIS_DIR, SCHEMA_DIR]))
     template = env.get_template(input_markdown)
-    rendered_markdown = template.render()
+    rendered_markdown = template.render(date_today=make_pretty_date())
 
     with io.open(output_markdown, 'w') as f:
         f.write(rendered_markdown)
 
     print("\nOutput written to {}".format(output_markdown))
+
+
+def make_pretty_date(today=None):
+    today = today or datetime.date.today()
+    return today.strftime('%-d %B %Y')
 
 
 if __name__ == '__main__':
