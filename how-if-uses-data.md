@@ -127,7 +127,7 @@ We use several services to help us find people to join our team. At the moment, 
 * [Workable](https://www.workable.com/) ([Privacy policy](https://www.workable.com/privacy))
 * [LinkedIn](https://www.linkedin.com/) ([Privacy policy](https://www.linkedin.com/legal/privacy-policy))
 * [The Guardian Jobs](https://jobs.theguardian.com/) ([Privacy policy](https://jobs.theguardian.com/privacy-policy/))
-* [Escape to the City](https://www.escapethecity.org/) ([Privacy policy](https://www.escapethecity.org/privacy-policy/))
+* [Escape the City](https://www.escapethecity.org/) ([Privacy policy](https://www.escapethecity.org/privacy-policy/))
 
 Only specific team members involved in the recruitment process have access to these accounts or anything related to job applications, like CV’s and emails. We don’t collect any [special category data](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/special-category-data/) or ask for any background checks as part of the application process.
 
