@@ -44,7 +44,7 @@ We track visitors to IF’s website using analytics software called [Matomo](htt
 
 We chose Matomo because we are able to run it on equipment we control, so no third parties have access to this data. Matomo have [listed what data their software collects](https://matomo.org/faq/general/faq_18254/) about visitors to our websites, and have also written about their [approach to privacy](https://matomo.org/privacy/).
 
-You can opt out of analytics by turning on Do Not Track in your browser. Find out how to do this for [Google Chrome](https://support.google.com/chrome/answer/2790761?co=GENIE.Platform%3DDesktop&hl=en), [Firefox](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature), [Safari](https://support.apple.com/kb/PH21416?locale=en_US), [Internet Explorer](https://support.microsoft.com/en-gb/help/17288/windows-internet-explorer-11-use-do-not-track), [Internet Explorer](https://support.microsoft.com/en-gb/help/17288/windows-internet-explorer-11-use-do-not-track) and [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy).
+You can opt out of analytics by turning on Do Not Track in your browser. Find out how to do this for [Google Chrome](https://support.google.com/chrome/answer/2790761?co=GENIE.Platform%3DDesktop&hl=en), [Firefox](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature), [Safari](https://support.apple.com/kb/PH21416?locale=en_US), [Internet Explorer](https://support.microsoft.com/en-gb/help/17288/windows-internet-explorer-11-use-do-not-track) and [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy).
 
 ### Digital Ocean
 
