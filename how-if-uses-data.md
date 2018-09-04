@@ -2,7 +2,7 @@ Projects by IF is a limited company based in London, England. We run this websit
 
 We use third party services to publish work, keep in touch with people and understand how we can do both of these things better. Here you can find out what these services are and how we handle data for user research, job applications and people that work at IF.
 
-This page was last updated on 22 June 2018. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
+This page was last updated on 4 September 2018. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
 
 ## Our websites
 
@@ -78,7 +78,9 @@ You can view an example of [our informed consent form on GitHub](https://github.
 
 Research material is separated from any identifiable information, such as consent forms, while we are working with it.
 
-Any notes we gather during research sessions are stored securely. Any digital files (like audio, photos and videos) are stored on Google Drive and are only accessed by IF team members involved in the research. At the end of the project, all notes and digital files are destroyed or deleted.
+Any notes we gather during research sessions are stored securely. Any digital files (like audio, photos and videos) are stored on Google Drive and are only accessed by IF team members involved in the research. We may send audio of the research session to a transcriber if necessary. We review the privacy notices of the companies we use for this and ask for explicit consent from participants in our consent forms.
+
+All notes and digital files are destroyed or deleted 2 years after the research session. We delete any personal information provided by us from the research recruiter when the project has finished.
 
 Sometimes we may publish quotes from research sessions. We only do this if we have specific consent from the participant and any personally identifiable information has been removed. We will only publish audio, photos and video from a research session if a participant has given consent and has signed a model release form.
 
@@ -154,6 +156,6 @@ The General Data Protection Regulation gives EU citizens the following rights:
 
 To exercise any of these rights, please contact us at [data@projectsbyif.com](mailto:data@projectsbyif.com). You can find information specific to the services we use or our activities in the relevant sections of this document.
 
-Our postal address is Room T134/T134A, Third Floor, New Wing, Somerset House, London, WC2R 1LA.
+Our postal address is Projects By IF, Rooms T113/T121/T122, Third Floor, New Wing, Somerset House, London, WC2R 1LA.
 
 If you aren't satisfied by our response, you can contact the [Information Commissioner's Office](https://ico.org.uk/concerns/).
