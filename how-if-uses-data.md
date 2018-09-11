@@ -2,7 +2,7 @@ Projects by IF is a limited company based in London, England. We run this websit
 
 We use third party services to publish work, keep in touch with people and understand how we can do both of these things better. Here you can find out what these services are and how we handle data for user research, job applications and people that work at IF.
 
-This page was last updated on 4 September 2018. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
+This page was last updated on 11 September 2018. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
 
 ## Our websites
 
@@ -34,9 +34,9 @@ We don't use logging for S3 files, but Amazon may log IP addresses to protect th
 
 You can read more about privacy on Amazon AWS in their [Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/).
 
-## Trust & Design meetup
+## Trust & Design and events
 
-We use [Eventbrite](https://eventbrite.co.uk) to handle signups and ticketing for our [Trust & Design](https://trustanddesign.projectsbyif.com) meetup. We do this because it’s a ticketing service members of the team have experience using. It allows us to promote each event to other people interested in similar events.
+We use [Eventbrite](https://eventbrite.co.uk) to handle signups and ticketing for our [Trust & Design](https://trustanddesign.projectsbyif.com) meetup and other events we host. We do this because it’s a ticketing service members of the team have experience using. It allows us to promote each event to other people interested in similar events.
 
 When someone signs up to an event through Eventbrite, we’ll only use that information to get in touch about that specific event. After the event, we delete any information about attendees from Eventbrite.
 
