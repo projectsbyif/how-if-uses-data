@@ -14,9 +14,13 @@ We track visitors to IF’s websites using analytics software called [Matomo](ht
 
 You can opt out of our analytics by turning on Do Not Track in your browser. Find out how to do this for [Google Chrome](https://support.google.com/chrome/answer/2790761?co=GENIE.Platform%3DDesktop&hl=en), [Firefox](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature), [Safari](https://support.apple.com/kb/PH21416?locale=en_US), [Internet Explorer](https://support.microsoft.com/en-gb/help/17288/windows-internet-explorer-11-use-do-not-track) and [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy).
 
+### Netlify
+
+Many of IF's sites are hosted on [Netlify](https://www.netlify.com/), a managed website hosting service for static web pages. Netlify describes the data they collect about visitors to sites hosted on their platform in their [GDPR statement](https://www.netlify.com/gdpr/). Further information about their approach to customer data is included in their [privacy policy](https://www.netlify.com/privacy/).
+
 ### Digital Ocean
 
-We run our websites on servers in London that are owned by [Digital Ocean](https://digitalocean.com). They give us full control over the software we use and how data is stored. Digital Ocean's approach to customer data is outlined in [their privacy policy](https://www.digitalocean.com/legal/privacy/).
+IF's blog and Matomo analytics service run on servers in London that are owned by [Digital Ocean](https://digitalocean.com). They give us full control over the software we use and how data is stored. Digital Ocean's approach to customer data is outlined in [their privacy policy](https://www.digitalocean.com/legal/privacy/).
 
 ### GitHub
 
