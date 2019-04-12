@@ -38,20 +38,6 @@ We don't use logging for S3 files, but Amazon may log IP addresses to protect th
 
 You can read more about privacy on Amazon AWS in their [Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/).
 
-## Trust & Design and events
-
-We use [Eventbrite](https://eventbrite.co.uk) to handle signups and ticketing for our [Trust & Design](https://trustanddesign.projectsbyif.com) meetup and other events we host. We do this because it’s a ticketing service members of the team have experience using. It allows us to promote each event to other people interested in similar events.
-
-When someone signs up to an event through Eventbrite, we’ll only use that information to get in touch about that specific event. After the event, we delete any information about attendees from Eventbrite.
-
-To exercise your data rights on Eventbrite, go to their [privacy policy](https://www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy) and scroll to section 7 for more information.
-
-### At the event
-
-We ask attendees for consent to being filmed or photographed by members of the IF team on Eventbrite. If you want to change your decision or you’ve been filmed or photographed against your consent, please email [data@projectsbyif.com](mailto:data@projectsbyif.com).
-
-If a speaker consents, we film their talk so we can publish it after the event. We transcribe films to ensure that what the speaker says is accessible to everyone. This transcript will be published verbatim, unless a speaker wants to review and edit it. We won’t publish footage of Q&As if we haven’t received consent from all participants.
-
 ## Our social media accounts
 
 We use several social media accounts to share our work. We occasionally use the analytics tools provided by these platforms to understand how we can use these services better. Our social media accounts include:
@@ -160,6 +146,6 @@ The General Data Protection Regulation gives EU citizens the following rights:
 
 To exercise any of these rights, please contact us at [data@projectsbyif.com](mailto:data@projectsbyif.com). You can find information specific to the services we use or our activities in the relevant sections of this document.
 
-Our postal address is Projects By IF, Rooms T113/T121/T122, Third Floor, New Wing, Somerset House, London, WC2R 1LA.
+Our postal address is Projects By IF, New Wing, Somerset House, London, WC2R 1LA.
 
 If you aren't satisfied by our response, you can contact the [Information Commissioner's Office](https://ico.org.uk/concerns/).
