@@ -2,7 +2,7 @@ Projects by IF is a limited company based in London, England. We run this websit
 
 We use third party services to publish work, keep in touch with people and understand how we can do both of these things better. Here you can find out what these services are and how we handle data for user research, job applications and people that work at IF.
 
-This page was last updated on 11 September 2018. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
+This page was last updated on 18 April 2019. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
 
 ## Our websites
 
@@ -14,9 +14,13 @@ We track visitors to IF’s websites using analytics software called [Matomo](ht
 
 You can opt out of our analytics by turning on Do Not Track in your browser. Find out how to do this for [Google Chrome](https://support.google.com/chrome/answer/2790761?co=GENIE.Platform%3DDesktop&hl=en), [Firefox](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature), [Safari](https://support.apple.com/kb/PH21416?locale=en_US), [Internet Explorer](https://support.microsoft.com/en-gb/help/17288/windows-internet-explorer-11-use-do-not-track) and [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy).
 
+### Netlify
+
+Many of IF's sites are hosted on [Netlify](https://www.netlify.com/), a managed website hosting service for static web pages. Netlify describes the data they collect about visitors to sites hosted on their platform in their [GDPR statement](https://www.netlify.com/gdpr/). Further information about their approach to customer data is included in their [privacy policy](https://www.netlify.com/privacy/).
+
 ### Digital Ocean
 
-We run our websites on servers in London that are owned by [Digital Ocean](https://digitalocean.com). They give us full control over the software we use and how data is stored. Digital Ocean's approach to customer data is outlined in [their privacy policy](https://www.digitalocean.com/legal/privacy/).
+IF's blog and Matomo analytics service run on servers in London that are owned by [Digital Ocean](https://digitalocean.com). They give us full control over the software we use and how data is stored. Digital Ocean's approach to customer data is outlined in [their privacy policy](https://www.digitalocean.com/legal/privacy/).
 
 ### GitHub
 
@@ -33,20 +37,6 @@ We host images using [Amazon Web Services (AWS) Simple Storage Service (S3)](htt
 We don't use logging for S3 files, but Amazon may log IP addresses to protect the security of their systems. We have signed a [Data Protection Addendum](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) with Amazon to ensure data protections approved by the European Commission are in place.
 
 You can read more about privacy on Amazon AWS in their [Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/).
-
-## Trust & Design and events
-
-We use [Eventbrite](https://eventbrite.co.uk) to handle signups and ticketing for our [Trust & Design](https://trustanddesign.projectsbyif.com) meetup and other events we host. We do this because it’s a ticketing service members of the team have experience using. It allows us to promote each event to other people interested in similar events.
-
-When someone signs up to an event through Eventbrite, we’ll only use that information to get in touch about that specific event. After the event, we delete any information about attendees from Eventbrite.
-
-To exercise your data rights on Eventbrite, go to their [privacy policy](https://www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy) and scroll to section 7 for more information.
-
-### At the event
-
-We ask attendees for consent to being filmed or photographed by members of the IF team on Eventbrite. If you want to change your decision or you’ve been filmed or photographed against your consent, please email [data@projectsbyif.com](mailto:data@projectsbyif.com).
-
-If a speaker consents, we film their talk so we can publish it after the event. We transcribe films to ensure that what the speaker says is accessible to everyone. This transcript will be published verbatim, unless a speaker wants to review and edit it. We won’t publish footage of Q&As if we haven’t received consent from all participants.
 
 ## Our social media accounts
 
@@ -156,6 +146,6 @@ The General Data Protection Regulation gives EU citizens the following rights:
 
 To exercise any of these rights, please contact us at [data@projectsbyif.com](mailto:data@projectsbyif.com). You can find information specific to the services we use or our activities in the relevant sections of this document.
 
-Our postal address is Projects By IF, Rooms T113/T121/T122, Third Floor, New Wing, Somerset House, London, WC2R 1LA.
+Our postal address is Projects By IF, New Wing, Somerset House, London, WC2R 1LA.
 
 If you aren't satisfied by our response, you can contact the [Information Commissioner's Office](https://ico.org.uk/concerns/).
