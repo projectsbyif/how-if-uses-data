@@ -2,7 +2,7 @@ Projects by IF is a limited company based in London, England. We run this websit
 
 We use third party services to publish work, keep in touch with people and understand how we can do both of these things better. Here you can find out what these services are and how we handle data for user research, job applications and people that work at IF.
 
-This page was last updated on 18 April 2019. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
+This page was last updated on 22 July 2019. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
 
 ## Our websites
 
@@ -16,11 +16,11 @@ You can opt out of our analytics by turning on Do Not Track in your browser. Fin
 
 ### Netlify
 
-Many of IF's sites are hosted on [Netlify](https://www.netlify.com/), a managed website hosting service for static web pages. Netlify describes the data they collect about visitors to sites hosted on their platform in their [GDPR statement](https://www.netlify.com/gdpr/). Further information about their approach to customer data is included in their [privacy policy](https://www.netlify.com/privacy/).
+Many of IF's sites, including our main website and blog, are hosted on [Netlify](https://www.netlify.com/), a managed website hosting service for static web pages. Netlify describes the data they collect about visitors to sites hosted on their platform in their [GDPR statement](https://www.netlify.com/gdpr/). Further information about their approach to customer data is included in their [privacy policy](https://www.netlify.com/privacy/).
 
 ### Digital Ocean
 
-IF's blog and Matomo analytics service run on servers in London that are owned by [Digital Ocean](https://digitalocean.com). They give us full control over the software we use and how data is stored. Digital Ocean's approach to customer data is outlined in [their privacy policy](https://www.digitalocean.com/legal/privacy/).
+IF's Matomo analytics service runs on servers in London that are owned by [Digital Ocean](https://digitalocean.com). They give us full control over the software we use and how data is stored. Digital Ocean's approach to customer data is outlined in [their privacy policy](https://www.digitalocean.com/legal/privacy/).
 
 ### GitHub
 
@@ -31,10 +31,9 @@ We use [GitHub](https://github.com) to host code, which allows people outside of
 We host videos using [Vimeo](https://vimeo.com), because its infrastructure is better suited to delivering video content than our own. Find out more about how they use data in their [privacy statement](https://vimeo.com/privacy).
 
 ### Amazon Web Services
+We host documents (like PDFs) using [Amazon Web Services (AWS) Simple Storage Service (S3)](https://aws.amazon.com/s3/).
 
-We host images using [Amazon Web Services (AWS) Simple Storage Service (S3)](https://aws.amazon.com/s3/). We use AWS S3 because it’s reliable and integrates easily with our CMS, [Craft](https://craftcms.com/).
-
-We don't use logging for S3 files, but Amazon may log IP addresses to protect the security of their systems. We have signed a [Data Protection Addendum](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) with Amazon to ensure data protections approved by the European Commission are in place.
+We don’t use logging for S3 files, but Amazon may log IP addresses to protect the security of their systems. We have signed a [Data Protection Addendum](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) with Amazon to ensure data protections approved by the European Commission are in place.
 
 You can read more about privacy on Amazon AWS in their [Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/).
 
@@ -72,6 +71,8 @@ Any notes we gather during research sessions are stored securely. Any digital fi
 
 All notes and digital files are destroyed or deleted 2 years after the research session. We delete any personal information provided by us from the research recruiter when the project has finished.
 
+We may use quotes, photos, audio or video clips from research sessions in presentations to clients. We will only do this if we have consent from participants. We don’t connect this information to participants’ names.
+
 Sometimes we may publish quotes from research sessions. We only do this if we have specific consent from the participant and any personally identifiable information has been removed. We will only publish audio, photos and video from a research session if a participant has given consent and has signed a model release form.
 
 ### Withdrawing your consent
@@ -93,7 +94,14 @@ If you want to exercise your rights on a particular service, please refer to its
 
 ## People who work at IF
 
-When people join IF, we request information about them needed for [tax](https://www.gov.uk/new-employee/employee-information) and [to confirm their right to work in the UK](https://www.gov.uk/check-job-applicant-right-to-work). We hold information about their role and their professional development at IF. Access to this information is controlled – more information about what’s stored is available in our handbook.
+When people join IF, we request information about them needed for [tax](https://www.gov.uk/new-employee/employee-information) and accounting purposes and [to confirm their right to work in the UK](https://www.gov.uk/check-job-applicant-right-to-work). We also hold information about their role and their professional development at IF.
+
+Access to this information is controlled. Within IF, access is limited to team members involved in HR processes. External to IF, staff data is shared with:
+
+* [BOSS Accountants](https://www.ask-the-boss.co.uk/): For the purposes of processing payroll and other accounting services. ([Privacy policy](https://www.ask-the-boss.co.uk/privacy-policy))
+* [CharlieHR](www.charliehr.com): Our HR software. ([Privacy policy](https://www.charliehr.com/privacy))
+
+We take a number of steps to secure this information. More information about our security practices is available in our [Team Policy Handbook](https://workingat.projectsbyif.com).
 
 ## Things we don't do
 
@@ -144,7 +152,7 @@ The General Data Protection Regulation gives EU citizens the following rights:
 * [Right to object](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/right-to-object/)
 * [Rights related to automated decision-making, including profiling](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/rights-related-to-automated-decision-making-including-profiling/)
 
-To exercise any of these rights, please contact us at [data@projectsbyif.com](mailto:data@projectsbyif.com). You can find information specific to the services we use or our activities in the relevant sections of this document.
+To exercise any of these rights, please contact us at [data@projectsbyif.com](mailto:data@projectsbyif.com). You can find information specific to the services we use or our activities in the relevant sections of this document. We will respond to all requests within 28 days of receiving them.
 
 Our postal address is Projects By IF, New Wing, Somerset House, London, WC2R 1LA.
 
