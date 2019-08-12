@@ -1,43 +1,63 @@
 Projects by IF is a limited company based in London, England. We run this website ([projectsbyif.com](https://projectsbyif.com)) and its subdomains.
 
-We use third party services to publish work, keep in touch with people and understand how we can do both of these things better. Here you can find out what these services are and how we handle data for user research, job applications and people that work at IF.
+We use third party services to publish work, keep in touch with people and understand how we can do both of these things better. Here you can find out what these services are and how we handle data for visitors to our websites, user research participants, potential and existing clients, and job applicants.
 
-This page was last updated on 22 July 2019. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
+This page was last updated on 9 August 2019. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
 
 ## Our websites
 
-We use the following services to run our websites and understand how people are using them.
+### What data we collect
 
-### Matomo
+We collect the following information about visitors to our websites:
 
-We track visitors to IF’s websites using analytics software called [Matomo](https://matomo.org), which [collects information](https://matomo.org/faq/general/faq_18254/) about how people are using our sites to allow us to improve their experience. Data is stored indefinitely, so we can see how use of our website changes over time. We run our own copy of Matomo, [so no third parties have access to this data](https://matomo.org/privacy/).
+* IP address (first two bytes)
+* Timestamp of visit
+* Country of visit
+* Referrer
+* Operating system
+* Browser
+* Screen resolution
+* Device type
+* Device brand and model
+* Pages visited during session
+
+### Why we collect website data
+
+Our website analytics allows us to see how people are using our sites and improve their experience.
+
+### How long we keep website data
+
+We anonymise the data we collect and store it indefinitely, so we can see how use of our website changes over time.
+
+### Where website data is processed and stored
+
+We use an analytics software called [Matomo](https://matomo.org). We run our own copy of Matomo on servers in London owned by [Digital Ocean](https://digitalocean.com). Digital Ocean give us full control over the software we use and how data is stored. Their approach to customer data is outlined in [their privacy policy](https://www.digitalocean.com/legal/privacy/).
+
+### Opt-out of collection
 
 You can opt out of our analytics by turning on Do Not Track in your browser. Find out how to do this for [Google Chrome](https://support.google.com/chrome/answer/2790761?co=GENIE.Platform%3DDesktop&hl=en), [Firefox](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature), [Safari](https://support.apple.com/kb/PH21416?locale=en_US), [Internet Explorer](https://support.microsoft.com/en-gb/help/17288/windows-internet-explorer-11-use-do-not-track) and [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy).
 
-### Netlify
+### Third-party services
+
+We also use third-party services to host and deliver website content. You can find out more about each of these services below:
+
+#### Netlify
 
 Many of IF's sites, including our main website and blog, are hosted on [Netlify](https://www.netlify.com/), a managed website hosting service for static web pages. Netlify describes the data they collect about visitors to sites hosted on their platform in their [GDPR statement](https://www.netlify.com/gdpr/). Further information about their approach to customer data is included in their [privacy policy](https://www.netlify.com/privacy/).
 
-### Digital Ocean
-
-IF's Matomo analytics service runs on servers in London that are owned by [Digital Ocean](https://digitalocean.com). They give us full control over the software we use and how data is stored. Digital Ocean's approach to customer data is outlined in [their privacy policy](https://www.digitalocean.com/legal/privacy/).
-
-### GitHub
-
-We use [GitHub](https://github.com) to host code, which allows people outside of IF to contribute to our open source projects. Find out more about how they use data in their [privacy statement](https://help.github.com/articles/github-privacy-statement/).
-
-### Vimeo
+#### Vimeo
 
 We host videos using [Vimeo](https://vimeo.com), because its infrastructure is better suited to delivering video content than our own. Find out more about how they use data in their [privacy statement](https://vimeo.com/privacy).
 
-### Amazon Web Services
+#### Amazon Web Services
+
 We host documents (like PDFs) using [Amazon Web Services (AWS) Simple Storage Service (S3)](https://aws.amazon.com/s3/).
 
 We don’t use logging for S3 files, but Amazon may log IP addresses to protect the security of their systems. We have signed a [Data Protection Addendum](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) with Amazon to ensure data protections approved by the European Commission are in place.
 
 You can read more about privacy on Amazon AWS in their [Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/).
 
-## Our social media accounts
+#### Our social media accounts
 
 We use several social media accounts to share our work. We occasionally use the analytics tools provided by these platforms to understand how we can use these services better. Our social media accounts include:
 
@@ -55,53 +75,128 @@ If you’d like content about you removed from this site or any of our social me
 
 Research is an important part of our work: it helps us understand people’s needs and build better products and services.
 
-### Asking for consent
-
-All research participants are given a consent form that outlines what the research involves, what information will be recorded and how it will be used. If the participant is happy to proceed we ask them to sign the form to confirm this. We scan signed consent forms and shred paper copies, then store consent forms on Google Drive and keep these for 6 years.
-
 At the moment, we do not conduct any research with people under the age of 18.
 
-You can view an example of [our informed consent form on GitHub](https://github.com/projectsbyif/user-research-resources).
+### What data we collect
 
-### Using information from research
+We collect the following information from research participants:
+
+*Participant information*
+
+* Full name
+* Telephone number
+* Email address
+* Address
+
+*Consent forms*
+
+* Full name
+* Signature
+
+*Research material*
+
+* Interview recordings (audio or video)
+* Quotes
+* Notes
+* Photos
+
+### Why we collect this data
+
+We collect participant information to identify participants, and arrange sessions and follow-ups.
+
+All research participants are given a consent form that outlines what the research involves, what information will be recorded and how it will be used. If the participant is happy to proceed we ask them to sign the form to confirm this.
+
+We collect research material to reference during project work.
+
+### How long we keep research data
+
+Participant information is deleted at the end of the project.
+
+We scan signed consent forms and shred paper copies, then store consent forms on Google Drive and keep these for 6 years.
+All notes and digital files are destroyed or deleted 2 years after the research session. We delete any personal information provided to us from the research recruiter when the project has finished.
+
+### Where research data is processed and stored
 
 Research material is separated from any identifiable information, such as consent forms, while we are working with it.
 
 Any notes we gather during research sessions are stored securely. Any digital files (like audio, photos and videos) are stored on Google Drive and are only accessed by IF team members involved in the research. We may send audio of the research session to a transcriber if necessary. We review the privacy notices of the companies we use for this and ask for explicit consent from participants in our consent forms.
 
-All notes and digital files are destroyed or deleted 2 years after the research session. We delete any personal information provided by us from the research recruiter when the project has finished.
-
-We may use quotes, photos, audio or video clips from research sessions in presentations to clients. We will only do this if we have consent from participants. We don’t connect this information to participants’ names.
+We may use research materials like quotes, photos, audio or video clips, in presentations to clients. We will only do this if we have consent from participants. We don’t connect this information to participants’ names.
 
 Sometimes we may publish quotes from research sessions. We only do this if we have specific consent from the participant and any personally identifiable information has been removed. We will only publish audio, photos and video from a research session if a participant has given consent and has signed a model release form.
 
-### Withdrawing your consent
+### Opt-out of collection
 
 Participants are able to withdraw their information from a project at any time. To do this, contact [data@projectsbyif.com](mailto:data@projectsbyif.com).
 
+## Potential and existing clients
+
+### What data we collect
+
+We may collect the following information about our potential and existing clients:
+
+* Name
+* Company
+* Email address
+* Phone number
+* Job title
+* Company address
+* Working hours
+* Testimonials
+
+### Why we collect this data
+
+We use this information to create and manage client relationships.
+
+Testimonials may be used on our website for promotional purposes.
+
+### How long we keep this data
+
+We keep information about potential clients for 1 year from last contact, and information about existing clients for 2 years from last contact.
+
+Testimonials are kept for 5 years.
+
+### Where data about potential and existing clients is processed
+
+We use the following services to store and process this data:
+
+* GSuite, including Mail and Drive
+* Our workspace on Slack
+
 ## Job applicants
+
+### What data we collect
+
+We collect the following information about people who apply to join our team:
+
+* Full name
+* CV and supporting information
+* Email address
+* Covering letter
+* References
+* Phone number
+* Recruitment platform profile
+* Notes from interviews
+
+We don’t collect any [special category data](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/special-category-data/) or ask for any background checks as part of the application process.
+
+### Why we collect recruitment data
+Recruitment data is used to assess suitability for a role and communicate with candidates.
+
+### How long we keep recruitment data
+
+Recruitment data are deleted when a candidate leaves the recruitment process, is offered a job, or their application is unsuccessful.
+
+### Where recruitment data is processed and stored
 
 We use several services to help us find people to join our team. At the moment, these include:
 
 * [Workable](https://www.workable.com/) ([Privacy policy](https://www.workable.com/privacy))
 * [LinkedIn](https://www.linkedin.com/) ([Privacy policy](https://www.linkedin.com/legal/privacy-policy))
-* [The Guardian Jobs](https://jobs.theguardian.com/) ([Privacy policy](https://jobs.theguardian.com/privacy-policy/))
-* [Escape the City](https://www.escapethecity.org/) ([Privacy policy](https://www.escapethecity.org/privacy-policy/))
 
-Only team members involved in the recruitment process have access to these accounts, CVs and emails. We don’t collect any [special category data](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/special-category-data/) or ask for any background checks as part of the application process.
+(If you want to exercise your rights on a particular service, please refer to its privacy policy for more information.)
 
-If you want to exercise your rights on a particular service, please refer to its privacy policy for more information.
-
-## People who work at IF
-
-When people join IF, we request information about them needed for [tax](https://www.gov.uk/new-employee/employee-information) and accounting purposes and [to confirm their right to work in the UK](https://www.gov.uk/check-job-applicant-right-to-work). We also hold information about their role and their professional development at IF.
-
-Access to this information is controlled. Within IF, access is limited to team members involved in HR processes. External to IF, staff data is shared with:
-
-* [BOSS Accountants](https://www.ask-the-boss.co.uk/): For the purposes of processing payroll and other accounting services. ([Privacy policy](https://www.ask-the-boss.co.uk/privacy-policy))
-* [CharlieHR](www.charliehr.com): Our HR software. ([Privacy policy](https://www.charliehr.com/privacy))
-
-We take a number of steps to secure this information. More information about our security practices is available in our [Team Policy Handbook](https://workingat.projectsbyif.com).
+We store CVs on Google Drive and on our main recruitment platform, Workable. Only team members involved in the recruitment process have access to recruitment platform accounts, CVs and emails.
 
 ## Things we don't do
 
@@ -113,7 +208,7 @@ IF doesn't participate in the following data processing activities:
 * Postal marketing
 * CCTV surveillance (apart from CCTV systems run by the buildings in which we work)
 
-We don't use "[soft opt-in](https://ico.org.uk/for-organisations/guide-to-pecr/electronic-and-telephone-marketing/electronic-mail-marketing/)", meaning you won't receive any marketing communication from us unless you've specifically agreed to it.
+We don't use "[soft opt-in](https://ico.org.uk/for-organisations/guide-to-pecr/electronic-and-telephone-marketing/electronic-mail-marketing/)", meaning you won't receive any marketing communications from us unless you've specifically agreed to it.
 
 ## Keeping data secure
 
