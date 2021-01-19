@@ -162,6 +162,70 @@ We use the following services to store and process this data:
 
 * GSuite, including Mail and Drive
 * Our workspace on Slack
+* Notion
+
+## Attendees of IF's events
+
+We run events to share our insights and to connect with other Responsible Data practitioners.
+
+### What data we collect
+
+We collect the following information from event attendees:
+
+*Attendee Registration*
+
+* Full name
+* Telephone number
+* Email address
+* Job title and Company
+
+*During or after the event*
+
+* Video and audio of the event (audio or video)
+* Quotes
+* Feedback
+
+### Why we collect this data
+
+We collect attendee information to send the event invitation, provide help should there be any issues joining the event and to reach out for feedback.
+
+We usually record the events we run so we can share them with people who were unable to attend. We may use comments we receive in the event itself to promote future events. All Attendees are told that the event will be recorded prior to the event starting.
+
+We collect feedback to improve these events for Attendees.
+
+### How long we keep Attendee data
+
+Attendee Registration data is deleted after 2 years after the event.
+
+Videos of the events and the feedback we receive is kept indefinitely unless we are asked to remove it.
+
+### Where Attendee is processed and stored
+
+All Attendee data is stored on Google Drive and is only accessed by IF team members.
+
+We may use feedback materials like quotes, photos, audio or video clips, in presentations to clients. We will only do this if we have consent from Attendees. We don’t connect this information to Attendees’ names.
+
+Sometimes we may publish quotes from the events we run. We only do this if we have specific consent from the Attendee. We will only publish audio, photos and video from an event if an Attendee has given consent and has signed a model release form.
+
+### Third-party services
+
+We also use third-party services to plan, deliver and host event content. You can find out more about each of these services below:
+
+#### Entourage BD
+
+We work with [Entourage BD] (https://entouragebd.com/) to plan our events, invite guests and gather feedback from Attendees. Entourage describes the data they collect about Attendees in their [Privacy Policy](https://entouragebd.com/privacy-policy/).
+
+#### Livestorm
+
+We use the webinar platform [Livestorm] (https://livestorm.co/) to stream our online events live. We believe Livestorm provides an intuitive interface for Attendees, and reliable video stream. Livestorm publish details about how they use data from events in their [Privacy Policy](https://livestorm.co/privacy-policy/).
+
+#### YouTube
+
+We host videos of our online events using [YouTube](https://www.youtube.com/channel/UCp2leIrD9S-tapcLhc2FziA), because its infrastructure is better suited to delivering video content than our own. Find out more about how they use data in their [privacy statement](https://www.youtube.com/intl/ALL_uk/howyoutubeworks/our-commitments/protecting-user-data/?utm_campaign=1008960&utm_source=paidsearch&yt_product=ytgen&yt_goal=eng&utm_medium=googlesearch&utm_content=txt&yt_campaign_id=hyw&yt_creative_id=&utm_keyword=youtube%20privacy%20policy&utm_matchtype=e).
+
+### Opt-out of collection
+
+Attendees are able to withdraw their information at any time. To do this, contact [data@projectsbyif.com](mailto:data@projectsbyif.com).
 
 ## Job applicants
 
@@ -204,7 +268,6 @@ IF doesn't participate in the following data processing activities:
 
 * Buying or selling marketing lists
 * Entering into data sharing agreements with other organisations
-* Telephone marketing
 * Postal marketing
 * CCTV surveillance (apart from CCTV systems run by the buildings in which we work)
 
