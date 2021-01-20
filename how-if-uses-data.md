@@ -2,7 +2,7 @@ Projects by IF is a limited company based in London, England. We run this websit
 
 We use third party services to publish work, keep in touch with people and understand how we can do both of these things better. Here you can find out what these services are and how we handle data for visitors to our websites, user research participants, potential and existing clients, and job applicants.
 
-This page was last updated on 9 August 2019. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
+This page was last updated on 20 January 2021. You can see previous versions [on GitHub](https://github.com/projectsbyif/how-if-uses-data).
 
 ## Our websites
 
